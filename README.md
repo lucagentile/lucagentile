@@ -13,10 +13,10 @@ Typical duties and abilities
 * discussing ideas and solutions with non-technical people, keeping the discussion in the "problem space"
 * being proactive in incrementally improving the product and platform for the long-term
 * collaborating with the team\peers
- * discussing business priorities
- * organizing work incrementally for a better time-to-market
- * aligning on common technical and non-technical goals
- * reviewing code
+  * discussing business priorities
+  * organizing work incrementally for a better time-to-market
+  * aligning on common technical and non-technical goals
+  * reviewing code
 * writing code aiming at readability and maintainability
   * trunk-based or short-lived branches approach
   * quick feedback also thanks to CI/CD pipelines

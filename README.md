@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hello! 👋
-
 I'm Luca from Italy, a software developer with a backend focus.
 
 I'm an individual contributor willing to keep that professional track. I work remotely since 2020.

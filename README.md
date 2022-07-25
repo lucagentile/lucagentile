@@ -4,7 +4,7 @@ I'm Luca from Italy, a software developer with a backend focus.
 
 I'm an individual contributor willing to keep that professional track. I work remotely since 2020.
 
-This is what I care most about at this moment: 🇺🇦🇪🇺 https://mm.tt/map/2295410966?t=8ZuWxmJW7z
+This is what I care most about at this moment: 🇺🇦🇪🇺 https://bit.ly/3vd6Qb1
 
 I love following and chatting about software engineering practices like DDD and DevOps. Both involve customer-oriented thinking, attention to quality and constraints.
 

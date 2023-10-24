@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Luca from Italy, a software developer with a backend focus.
+I'm Luca, a software developer with a backend focus.
 
 I'm an individual contributor willing to keep that professional track. I work remotely since 2020.
 
@@ -8,6 +8,7 @@ I love following and chatting about software engineering practices like DDD and 
 
 Typical duties and abilities 
 * analyzing to understand the business value, the why behind a stakeholder need
+  * ROI driven approach to my daily work
 * discussing ideas and solutions with non-technical people, keeping the discussion in the "problem space"
 * being proactive in incrementally improving the product and platform for the long-term
 * collaborating with the team\peers
@@ -16,8 +17,8 @@ Typical duties and abilities
   * aligning on common technical and non-technical goals
   * reviewing code
 * writing code aiming at readability and maintainability
-  * trunk-based or short-lived branches approach
-  * quick feedback also thanks to CI/CD pipelines
+  * trunk-based\short-lived branches approach
+  * CI/CD pipelines optimized for quick feedback
   * test-first, outside-in
   * simple design, KISS
   * domain-driven

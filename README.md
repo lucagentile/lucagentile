@@ -25,10 +25,10 @@ Typical duties and abilities
 * designing applications to improve resiliency and reduce coupling
   * event-driven
   * messaging
-  * domain-oriented
+  * domain-oriented modules\services
 
 I've worked mainly with Kotlin, PHP, JavaScript, TypeScript, Java, Docker, Kubernetes, RabbitMQ, Grafana, Prometheus, MySQL and Postgres.
-And I've applied architectures and techniques in cloud-native applications like CI, CD, CQRS, Hexagonal Architecture, Test-Driven Development, Contract Testing, Infrastructure as code, and Event Sourcing.
+I've applied architectures and techniques in cloud-native applications like CI, CD, CQRS, Hexagonal Architecture, Test-Driven Development, Contract Testing, Infrastructure as code, and Event Sourcing.
 
 📫 How to reach me: a DM it's absolutely fine, or via LinkedIn https://www.linkedin.com/in/lucagentile-eu/
 
